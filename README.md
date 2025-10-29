@@ -111,4 +111,6 @@ This table will store payment details from customers.
 8. **Sales** and **Invoices**: One-to-One relationship. Each sale has one invoice.
 9. **Invoices** and **Payments**: One-to-One relationship. Each invoice can have one payment.
 
+
+
 This schema will allow you to track customers, products, suppliers, sales, purchases, invoices, and payments efficiently.
