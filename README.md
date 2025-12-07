@@ -17,6 +17,10 @@ This table will store information about the customers of the shop.
 ### 2. **Suppliers Table**
 This table will store details of suppliers who provide stock to the shop.
 
+
+
+
+
 | Column Name    | Data Type    | Description                        |
 |----------------|--------------|------------------------------------|
 | `supplier_id`  | INT (PK)     | Unique identifier for the supplier |
