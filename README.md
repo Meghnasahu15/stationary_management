@@ -8,10 +8,6 @@ This table will store information about the customers of the shop.
 
 
 
-
-
-
-
 | Column Name   | Data Type    | Description                        |
 |---------------|--------------|------------------------------------|
 | `customer_id` | INT (PK)     | Unique identifier for the customer |
