@@ -12,9 +12,6 @@ CREATE TABLE Customers (
     address TEXT
 );
 
-
-
-
 CREATE TABLE Suppliers (
     supplier_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
