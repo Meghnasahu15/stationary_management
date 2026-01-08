@@ -7,6 +7,14 @@ CREATE DATABASE stationery_shop;
 USE stationery_shop;
 ```
 
+
+
+
+
+
+
+
+
 ### 2. **Create Customers Table**
 This table stores the details of customers.
 ```sql
