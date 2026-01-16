@@ -20,8 +20,6 @@ CREATE TABLE Suppliers (
     email VARCHAR(100),
     address TEXT
 );
-
-
 CREATE TABLE Products (
     product_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
