@@ -20,9 +20,6 @@ CREATE TABLE Customers (
 );
 ```
 
-
-
-
 ### 3. **Create Suppliers Table**
 This table stores the details of the suppliers.
 ```sql
