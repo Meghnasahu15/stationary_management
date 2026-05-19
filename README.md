@@ -1,3 +1,7 @@
+
+
+
+
 # Stationery Shop SQL project
 
 For a stationery shop SQL project, you will need to design tables that capture various aspects of the business: inventory, customers, suppliers, sales, purchases, and invoices. Below is a list of potential tables and their relationships, ensuring all the typical operations of a stationery shop are covered.
